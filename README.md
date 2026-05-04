@@ -1,9 +1,7 @@
 # python_projects
-Here I will save all my projects related to C#
-
+Here I will save all my python projects
 
 I have made them:
 - using Visual Studio Code
-- reading C# documentation
-- watching Youtube videos
-- researching information in internet foros
+- reading python documentation
+- following Youtube video-courses
